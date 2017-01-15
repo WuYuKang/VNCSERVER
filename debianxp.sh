@@ -1,4 +1,4 @@
-####debian 6 xp install vnc without xfce
+####debian 6 xp install vnc without xfce You can get raw files by change https://www.github.com with http://from raw.githubusercontent.com
 apt-get update
 apt-get install vnc4server qemu -y
 vncserver
