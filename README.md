@@ -5,6 +5,7 @@
 first
 
 ``wget https://raw.githubusercontent.com/WuYuKang/VNCSERVER-XP-DEBIAN/debianxp.sh``
+
 second
 
 ``sh debianxp.sh``
