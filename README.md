@@ -4,11 +4,11 @@
 
 first
 
-``wget https://raw.githubusercontent.com/WuYuKang/VNCSERVER-XP-DEBIAN/debianxp.sh``
+`wget https://raw.githubusercontent.com/yorfir/VNCSERVER-XP-DEBIAN/debianxp.sh`
 
 second
 
-``sh debianxp.sh``
+`sh debianxp.sh`
 
 you need to input the password you like as twice.
 
